@@ -30,12 +30,12 @@
 <a name="activity_si"/>
 
 ## Склад
-![Диаграмма активности. Склад](https://github.com/MaksimLT94/grocery-store/blob/master/diagrams/bye1/seq.png)
+![Диаграмма активности. Склад](https://github.com/MaksimLT94/grocery-store/blob/master/diagrams/Stock/activ.png)
 
 <a name="activity_h"/>
 
 ## Касса
-![Диаграмма активности. Касса](https://github.com/MaksimLT94/grocery-store/blob/master/diagrams/bye1/state.png)
+![Диаграмма активности. Касса](https://github.com/MaksimLT94/grocery-store/blob/master/diagrams/Cashir/cash%20activ.png)
 
 <a name="sequence"/>
 
@@ -44,18 +44,18 @@
 <a name="sequence_br"/>
 
 ## Заказы
-![Диаграмма последовательности. Заказы](https://github.com/AndreiP88/Mind-games/blob/master/Documents/Diagramms/Images/SD_1.png)
+![Диаграмма последовательности. Заказы](https://github.com/MaksimLT94/grocery-store/blob/master/diagrams/bye1/seq.png)
 
 <a name="sequence_si"/>
 
 ## Склад
-![Диаграмма последовательности. Склад](https://github.com/AndreiP88/Mind-games/blob/master/Documents/Diagramms/Images/SD_2.png)
+![Диаграмма последовательности. Склад](https://github.com/MaksimLT94/grocery-store/blob/master/diagrams/Stock/seq.png)
 
 
 <a name="sequence_h"/>
 
 ## Касса
-![Диаграмма последовательности. Касса](https://github.com/AndreiP88/Mind-games/blob/master/Documents/Diagramms/Images/SD_3.png)
+![Диаграмма последовательности. Касса](https://github.com/MaksimLT94/grocery-store/blob/master/diagrams/Cashir/cash%20seq.png)
 
 <a name="sm"/>
 
@@ -64,18 +64,18 @@
 <a name="sm_br"/>
 
 ## Заказы
-![Диаграмма состояний. Заказы](https://github.com/AndreiP88/Mind-games/blob/master/Documents/Diagramms/Images/SM_1.png)
+![Диаграмма состояний. Заказы](https://github.com/MaksimLT94/grocery-store/blob/master/diagrams/bye1/state.png)
 
 <a name="sm_si"/>
 
 ## Склад
-![Диаграмма состояний. Склад](https://github.com/AndreiP88/Mind-games/blob/master/Documents/Diagramms/Images/SM_2.png)
+![Диаграмма состояний. Склад](https://github.com/MaksimLT94/grocery-store/blob/master/diagrams/Stock/state.png)
 
 
 <a name="sm_h"/>
 
 ## Касса
-![Диаграмма состояний. Касса](https://github.com/AndreiP88/Mind-games/blob/master/Documents/Diagramms/Images/SM_3.png)
+![Диаграмма состояний. Касса](https://github.com/MaksimLT94/grocery-store/blob/master/diagrams/Cashir/cash%20state.png)
 
 <a name="class"/>
 
