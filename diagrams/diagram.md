@@ -80,7 +80,7 @@
 <a name="class"/>
 
 ## Диаграмма классов
-![Диаграмма классов](https://github.com/AndreiP88/Mind-games/blob/master/Documents/Diagramms/Images/ClassD.png)
+![Диаграмма классов](https://github.com/MaksimLT94/grocery-store/blob/master/diagrams/class/class.png)
 
 <a name="component"/>
 
