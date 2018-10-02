@@ -36,6 +36,8 @@
 Взаимодействие с пользователем осуществляется при помощи отображения информации на экране.
 
 **Основное меню:**
+
+
 ![Основное меню](https://github.com/MaksimLT94/grocery-store/blob/master/Requirements/menu.png)
 
 
