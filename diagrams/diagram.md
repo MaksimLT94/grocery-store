@@ -9,9 +9,7 @@
 2.2 [Склад](#sequence_si)\
 2.3 [Касса](#sequence_h)\
 3 [Диаграммы состояний](#sm)\
-3.1 [Заказы](#sm_br)\
-3.2 [Склад](#sm_si)\
-3.3 [Касса](#sm_h)\
+3.1 [Состояний](#sm_br)\
 4 [Диаграмма классов](#class)\
 5 [Диаграмма компонентов](#component)\
 6 [Диаграмма развертывания](#deployment)
@@ -63,19 +61,11 @@
 
 <a name="sm_br"/>
 
-## Заказы
-![Диаграмма состояний. Заказы](https://github.com/MaksimLT94/grocery-store/blob/master/diagrams/bye1/state.png)
+## Состояний
+![Диаграмма состояний. Заказы](https://github.com/MaksimLT94/grocery-store/blob/master/diagrams/class/state.png)
 
 <a name="sm_si"/>
 
-## Склад
-![Диаграмма состояний. Склад](https://github.com/MaksimLT94/grocery-store/blob/master/diagrams/Stock/state.png)
-
-
-<a name="sm_h"/>
-
-## Касса
-![Диаграмма состояний. Касса](https://github.com/MaksimLT94/grocery-store/blob/master/diagrams/Cashir/cash%20state.png)
 
 <a name="class"/>
 
