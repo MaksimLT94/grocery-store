@@ -35,7 +35,7 @@
 <a name="activity_h"/>
 
 ## Касса
-![Диаграмма активности. Касса](https://github.com/MaksimLT94/grocery-store/blob/master/diagrams/Cashir/cash%20activ.png)
+![Диаграмма активности. Касса](https://github.com/MaksimLT94/grocery-store/blob/master/diagrams/Cashir/activ.png)
 
 <a name="sequence"/>
 
@@ -55,7 +55,7 @@
 <a name="sequence_h"/>
 
 ## Касса
-![Диаграмма последовательности. Касса](https://github.com/MaksimLT94/grocery-store/blob/master/diagrams/Cashir/cash%20seq.png)
+![Диаграмма последовательности. Касса](https://github.com/MaksimLT94/grocery-store/blob/master/diagrams/Cashir/seq.png)
 
 <a name="sm"/>
 
