@@ -134,7 +134,7 @@
 													"top": 47,
 													"width": 62.736328125,
 													"height": 13,
-													"text": "person"
+													"text": "курьер"
 												},
 												{
 													"_type": "LabelView",
@@ -248,7 +248,7 @@
 													"top": 47,
 													"width": 83.708984375,
 													"height": 13,
-													"text": "storekeeper"
+													"text": "кладовщик"
 												},
 												{
 													"_type": "LabelView",
@@ -461,7 +461,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 392.52734375,
+													"left": 408.52734375,
 													"height": 13
 												},
 												{
@@ -471,11 +471,11 @@
 														"$ref": "AAAAAAFmJTVYoD4+y0s="
 													},
 													"font": "Arial;13;1",
-													"left": 357,
+													"left": 365,
 													"top": 47,
 													"width": 66.36083984375,
 													"height": 13,
-													"text": "database"
+													"text": "БД"
 												},
 												{
 													"_type": "LabelView",
@@ -485,7 +485,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 392.52734375,
+													"left": 408.52734375,
 													"width": 106.20263671875,
 													"height": 13,
 													"text": "(from Interaction1)"
@@ -498,13 +498,13 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 392.52734375,
+													"left": 408.52734375,
 													"height": 13,
 													"horizontalAlignment": 1
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 352,
+											"left": 360,
 											"top": 40,
 											"width": 76.36083984375,
 											"height": 40,
@@ -531,14 +531,14 @@
 												"$ref": "AAAAAAFmJTVYoD48Jr8="
 											},
 											"font": "Arial;13;0",
-											"left": 390,
+											"left": 398,
 											"top": 80,
 											"width": 1,
 											"height": 196
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 352,
+									"left": 360,
 									"top": 40,
 									"width": 76.36083984375,
 									"height": 236,
@@ -569,9 +569,9 @@
 												"$ref": "AAAAAAFmJTVZ0z5aO8E="
 											},
 											"font": "Arial;13;0",
-											"left": 250,
+											"left": 244,
 											"top": 119,
-											"width": 130.05712890625,
+											"width": 151.5185546875,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 10,
@@ -579,7 +579,7 @@
 												"$ref": "AAAAAAFmJTVZ0z5bqP8="
 											},
 											"edgePosition": 1,
-											"text": "2 : information transfer"
+											"text": "2 : информация о товаре"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -592,7 +592,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 315,
+											"left": 319,
 											"top": 104,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -613,7 +613,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 315,
+											"left": 319,
 											"top": 139,
 											"height": 13,
 											"alpha": -1.5707963267948966,
@@ -633,7 +633,7 @@
 												"$ref": "AAAAAAFmJTVZ0z5aO8E="
 											},
 											"font": "Arial;13;0",
-											"left": 383,
+											"left": 391,
 											"top": 135,
 											"width": 14,
 											"height": 29
@@ -646,7 +646,7 @@
 									"tail": {
 										"$ref": "AAAAAAFmJTQeiD3j0jc="
 									},
-									"points": "247:135;383:135",
+									"points": "247:135;391:135",
 									"nameLabel": {
 										"$ref": "AAAAAAFmJTVZ0z5c0Vg="
 									},
@@ -702,7 +702,7 @@
 													"top": 47,
 													"width": 62.736328125,
 													"height": 13,
-													"text": "stock"
+													"text": "СКЛАД"
 												},
 												{
 													"_type": "LabelView",
@@ -796,9 +796,9 @@
 												"$ref": "AAAAAAFmJTc94D6TtGk="
 											},
 											"font": "Arial;13;0",
-											"left": 391,
-											"top": 168,
-											"width": 148.865234375,
+											"left": 307,
+											"top": 176,
+											"width": 174.0400390625,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 10,
@@ -806,7 +806,7 @@
 												"$ref": "AAAAAAFmJTc94D6UQFU="
 											},
 											"edgePosition": 1,
-											"text": "3 : transfer on the storage"
+											"text": "3 : отправка товара на склад"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -819,8 +819,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 465,
-											"top": 153,
+											"left": 394,
+											"top": 161,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 25,
@@ -840,8 +840,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 465,
-											"top": 188,
+											"left": 394,
+											"top": 196,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 10,
@@ -861,7 +861,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 541,
-											"top": 184,
+											"top": 192,
 											"width": 14,
 											"height": 29
 										}
@@ -871,9 +871,9 @@
 										"$ref": "AAAAAAFmJTc8rz584AA="
 									},
 									"tail": {
-										"$ref": "AAAAAAFmJTVYoD5D0BU="
+										"$ref": "AAAAAAFmJTQeiD3j0jc="
 									},
-									"points": "390:184;541:184",
+									"points": "247:192;541:192",
 									"nameLabel": {
 										"$ref": "AAAAAAFmJTc94D6VL+c="
 									},
@@ -907,17 +907,17 @@
 												"$ref": "AAAAAAFmJTkb0T6tKdc="
 											},
 											"font": "Arial;13;0",
-											"left": 409,
-											"top": 228,
+											"left": 336,
+											"top": 200,
 											"width": 119.2470703125,
 											"height": 13,
-											"alpha": 1.5707963267948966,
-											"distance": 10,
+											"alpha": 4.612719337794616,
+											"distance": 10.04987562112089,
 											"hostEdge": {
 												"$ref": "AAAAAAFmJTkb0z6u5vY="
 											},
 											"edgePosition": 1,
-											"text": "4 : get of the storage"
+											"text": "4 : забор товара"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -930,8 +930,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 468,
-											"top": 243,
+											"left": 393,
+											"top": 235,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 25,
@@ -951,8 +951,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 469,
-											"top": 208,
+											"left": 394,
+											"top": 200,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 10,
@@ -972,20 +972,20 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 390,
-											"top": 224,
+											"left": 247,
+											"top": 216,
 											"width": 14,
 											"height": 25
 										}
 									],
 									"font": "Arial;13;0",
 									"head": {
-										"$ref": "AAAAAAFmJTVYoD5D0BU="
+										"$ref": "AAAAAAFmJTQeiD3j0jc="
 									},
 									"tail": {
 										"$ref": "AAAAAAFmJTc8rz584AA="
 									},
-									"points": "548:224;390:224",
+									"points": "541:216;247:216",
 									"nameLabel": {
 										"$ref": "AAAAAAFmJTkb0z6vu8o="
 									},
@@ -1019,9 +1019,9 @@
 												"$ref": "AAAAAAFmJTn+KD7G8M4="
 											},
 											"font": "Arial;13;0",
-											"left": 259,
+											"left": 250,
 											"top": 236,
-											"width": 109.09716796875,
+											"width": 134.64013671875,
 											"height": 13,
 											"alpha": 1.1071495177944106,
 											"distance": 11.180339887498949,
@@ -1029,7 +1029,7 @@
 												"$ref": "AAAAAAFmJTn+KD7HzBc="
 											},
 											"edgePosition": 1,
-											"text": "5 : reserve from db"
+											"text": "5 : снятие с учета в бд"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -1042,7 +1042,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 317,
+											"left": 321,
 											"top": 251,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -1063,7 +1063,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 318,
+											"left": 322,
 											"top": 216,
 											"height": 13,
 											"alpha": -1.5707963267948966,
@@ -1097,7 +1097,7 @@
 									"tail": {
 										"$ref": "AAAAAAFmJTVYoD5D0BU="
 									},
-									"points": "390:232;247:232",
+									"points": "398:232;247:232",
 									"nameLabel": {
 										"$ref": "AAAAAAFmJTn+KD7IoKk="
 									},
@@ -1131,9 +1131,9 @@
 												"$ref": "AAAAAAFmJTuS6T7iLwU="
 											},
 											"font": "Arial;13;0",
-											"left": 115,
+											"left": 99,
 											"top": 260,
-											"width": 115.62255859375,
+											"width": 147.51318359375,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 10,
@@ -1141,7 +1141,7 @@
 												"$ref": "AAAAAAFmJTuS6T7jXQw="
 											},
 											"edgePosition": 1,
-											"text": "6 : transfer of goods"
+											"text": "6 : перемещение товара"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -1247,7 +1247,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFmJTNVNj2smEA="
 							},
-							"name": "information transfer",
+							"name": "информация о товаре",
 							"source": {
 								"$ref": "AAAAAAFmJTQeiD3cmJA="
 							},
@@ -1261,9 +1261,9 @@
 							"_parent": {
 								"$ref": "AAAAAAFmJTNVNj2smEA="
 							},
-							"name": "transfer on the storage",
+							"name": "отправка товара на склад",
 							"source": {
-								"$ref": "AAAAAAFmJTVYoD48Jr8="
+								"$ref": "AAAAAAFmJTQeiD3cmJA="
 							},
 							"target": {
 								"$ref": "AAAAAAFmJTc8rz51CfQ="
@@ -1275,12 +1275,12 @@
 							"_parent": {
 								"$ref": "AAAAAAFmJTNVNj2smEA="
 							},
-							"name": "get of the storage",
+							"name": "забор товара",
 							"source": {
 								"$ref": "AAAAAAFmJTc8rz51CfQ="
 							},
 							"target": {
-								"$ref": "AAAAAAFmJTVYoD48Jr8="
+								"$ref": "AAAAAAFmJTQeiD3cmJA="
 							},
 							"messageSort": "reply"
 						},
@@ -1290,7 +1290,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFmJTNVNj2smEA="
 							},
-							"name": "reserve from db",
+							"name": "снятие с учета в бд",
 							"source": {
 								"$ref": "AAAAAAFmJTVYoD48Jr8="
 							},
@@ -1305,7 +1305,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFmJTNVNj2smEA="
 							},
-							"name": "transfer of goods",
+							"name": "перемещение товара",
 							"source": {
 								"$ref": "AAAAAAFmJTQeiD3cmJA="
 							},
@@ -1322,7 +1322,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFmJTNVNj2smEA="
 							},
-							"name": "person",
+							"name": "курьер",
 							"represent": {
 								"$ref": "AAAAAAFmJTOHkj262Co="
 							},
@@ -1334,7 +1334,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFmJTNVNj2smEA="
 							},
-							"name": "storekeeper",
+							"name": "кладовщик",
 							"represent": {
 								"$ref": "AAAAAAFmJTQehz3bxbY="
 							},
@@ -1346,7 +1346,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFmJTNVNj2smEA="
 							},
-							"name": "database",
+							"name": "БД",
 							"represent": {
 								"$ref": "AAAAAAFmJTVYnz47O48="
 							},
@@ -1358,7 +1358,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFmJTNVNj2smEA="
 							},
-							"name": "stock",
+							"name": "СКЛАД",
 							"represent": {
 								"$ref": "AAAAAAFmJTc8rz50iBw="
 							},
