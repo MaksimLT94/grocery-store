@@ -75,9 +75,9 @@
 <a name="component"/>
 
 ## Диаграмма компонентов
-![Диаграмма классов](https://github.com/AndreiP88/Mind-games/blob/master/Documents/Diagramms/Images/CompD.png)
+![Диаграмма классов](https://github.com/MaksimLT94/grocery-store/blob/master/diagrams/class/comp.png)
 
 <a name="deployment"/>
 
 ## Диаграмма развёртывания
-![Диаграмма развёртывания](https://github.com/AndreiP88/Mind-games/blob/master/Documents/Diagramms/Images/DD.png)
+![Диаграмма развёртывания](https://github.com/MaksimLT94/grocery-store/blob/master/diagrams/class/raz.png)
